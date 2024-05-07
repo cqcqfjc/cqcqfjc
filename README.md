@@ -8,6 +8,5 @@
 
 https://bolg.mixio.cn
 
-如果你喜欢我的项目并想支持我，[点击这里 :heart:](https://github.com/sponsors/cqcqfjc)
 
 <!-- ![](https://gitwar.herokuapp.com/badge?username=overtrue&style=for-the-badge) -->
