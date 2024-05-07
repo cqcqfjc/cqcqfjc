@@ -6,7 +6,7 @@
 
 🇨🇳 Yunnan,China・🕹Web developer
 
-https://bolg.mixio.cn
+https://blog.mixio.cn
 
 
 <!-- ![](https://gitwar.herokuapp.com/badge?username=overtrue&style=for-the-badge) -->
